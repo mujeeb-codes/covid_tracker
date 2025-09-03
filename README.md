@@ -16,7 +16,7 @@ It uses **REST APIs** to fetch the latest statistics and helps users stay inform
 ## 🛠️ Tech Stack
 - **Flutter** (Dart)  
 - **REST API Integration**  
-- **State Management** (setState / Provider / Riverpod depending on your implementation)  
+- **State Management** (setState )
 
 ---
 
